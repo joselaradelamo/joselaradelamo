@@ -1,0 +1,4 @@
+- 👋 Hi there, I’m @joselaradelamo
+- 👀 I’m interested in roller skates, also comics and boardgames
+- 🌱 I’m currently learning Python
+- 📫 You can find me on [my LinkedIn profile](https://www.linkedin.com/in/joselaradelamo/)
